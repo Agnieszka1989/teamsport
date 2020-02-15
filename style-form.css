@@ -1,0 +1,22 @@
+.container{
+  height: 200px;
+}
+
+
+h1{
+  text-align: center;
+  padding: 7%;
+
+
+}
+
+.btn{
+  margin-left: 10%;
+}
+
+
+.con-middle{
+  height: 250px;
+  width: 80%;
+  object-fit: cover;
+}
